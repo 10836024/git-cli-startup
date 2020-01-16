@@ -13,3 +13,13 @@ hello **markdown** 粗體
 hello ***markdown*** 斜屉+粗體
 
 hello ~~markdown~~  刪除線  
+
+---
+
+<http://google.com>
+
+[Google](http://google.com)
+
+---
+
+hello `markdown`
